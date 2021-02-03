@@ -1,10 +1,10 @@
-# Welcome to my page 😎 
+# Welcome to my page 👋
 
 ## My Portfolio 👨
 - GH Page: https://louiswalsh.github.io/portfolio/
 - Currently trying to learn React in my spare time, and this project is focused on the ⚡aesthetic⚡
 
-## My Current Project (New): Heystack 🌱
+## My Current Real Project (New): Heystack 🌱
 - Repo: https://github.com/louiswalsh/Heystack
 - Release Schedule / Plan: TBA...
 
