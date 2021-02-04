@@ -1,6 +1,6 @@
 # Welcome to my page 👋
 
-## My Portfolio 👨
+## My Portfolio 
 - GH Page: https://louiswalsh.github.io/portfolio/
 - Learning React in my spare time, and this project is focused on the ⚡aesthetic⚡
 
