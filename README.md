@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louiswalsh&label=Profile%20views&color=0e75b6&style=flat" alt="louiswalsh" /> </p>
 
-- 🔭 My full time project: [making music w/ Boomy](boomy.com)
+- 🔭 My full time project: [making music w/ Boomy](https://boomy.com/)
 
 - 🌱 I’m currently learning: **laravel, typescript, and vue**
 
