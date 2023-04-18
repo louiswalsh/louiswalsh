@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **laravel, typescript, and vue**
 
-- 🏃 My side hustles: **heystack, 2kGen**
+- 🏃 My side hustle: **Aventura**
 
 - 📫 How to reach me **louievw5@gmail.com**
 
