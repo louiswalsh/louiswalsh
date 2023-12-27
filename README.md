@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louiswalsh&label=Profile%20views&color=0e75b6&style=flat" alt="louiswalsh" /> </p>
 
-- 🔭 My full time project: [making music w/ Boomy](https://boomy.com/)
+- 🔭 My full time project: SWE @ [Verily](https://verily.com/) - An Alphabet Company
 
-- 🌱 I’m currently learning: **laravel, typescript, and vue**
+- 🌱 I’m currently learning: **scala, typescript, and angular**
 
-- 🏃 My side hustle: **Aventura**
+- 🏃 My current side project: **FruitDraft**
 
 - 📫 How to reach me **louievw5@gmail.com**
 
