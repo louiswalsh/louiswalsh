@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **scala, typescript, and angular**
 
-- 🏃 My current side project: (**FruitDraft**)[fruitdraft.com]
+- 🏃 My current side project: [FruitDraft](fruitdraft.com)
 
 - 📫 How to reach me **louievw5@gmail.com**
 
