@@ -1,4 +1,4 @@
-- 👋 [About me](louis-walsh.com)
+- 👋 [About me](https://louis-walsh.com)
 
 - 🔭 My full time project: SWE @ [Verily](https://verily.com/) - An Alphabet Company
 
