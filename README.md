@@ -1,4 +1,4 @@
-- 👋 [About me](https://louis-walsh.com)
+- 👋 [About me](https://louisfy.com)
 
 - 🔭 My full time project: FDE @ [Exa](https://exa.ai/) - Building the future of search
 
